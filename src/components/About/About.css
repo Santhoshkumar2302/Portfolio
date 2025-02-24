@@ -67,6 +67,7 @@
 .about-left img{
     width: 350px;
     height: 400px;
+    display: none;
 }
 @media(max-width:768px){
     .about{
