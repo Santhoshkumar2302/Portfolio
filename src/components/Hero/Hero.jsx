@@ -7,7 +7,7 @@ import Santhosh_Kumar_Resume from '../../assets/Santhosh_Kumar_Resume.pdf'
 const Hero = () => {
   return (
     <div id='home' className='hero'>
-       // <img src={profile} alt="" className='profile' />
+       //<img src={profile} alt="" className='profile' />
         <h1><span>I'm Santhosh Kumar G,</span> Fullstack developer Based in Tindivanam.</h1>
         <p>I am a FullStack Developer and completed B.Tech(IT) in 2023.</p>
         <div className="hero-action">
